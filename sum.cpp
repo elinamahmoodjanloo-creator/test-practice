@@ -1,5 +1,4 @@
 #include <iostream>
-#include <math.h>
 
 int sum() {
     std :: cout << "Enter one inetger Number = \n" ;
